@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Shaikh!</h1>
 <h3 align="center">A passionate Frontend Developer| Backend Developer| full stack dev from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadshaikh2600&label=Profile%20views&color=0e75b6&style=flat" alt="fahadshaikh2600" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadshaikh2600" alt="fahadshaikh2600" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce website**
 
