@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fahad Shaikh!</h1>
 <h3 align="center">A passionate Frontend Developer| Backend Developer| full stack dev from India</h3>
 
+- 🌱 I’m currently learning **Full Stack WEB DEVELOPER INTERN**
 
 - 🔭 I’m currently working on **E-Commerce website**
 
-- 🌱 I’m currently learning **Full Stack WEB DEVELOPER INTERN**
-
-- 🔭 I’m currently working on **Expense Tracker**
-
 - 🔭 I’m currently working on **Quiz App**
+- 
+- 🔭 build a **full expense tracker** in react.js
 
 - 👨‍💻 All of my projects are available at [https://fahadshaikh2600.github.io/myportfolio/](https://fahadshaikh2600.github.io/myportfolio/)
 
