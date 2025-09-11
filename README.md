@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **E-Commerce website**
 
 - 🔭 I’m currently working on **Quiz App**
-- 
+  
 - 🔭 build a **full expense tracker** in react.js
 
 - 👨‍💻 All of my projects are available at [https://fahadshaikh2600.github.io/myportfolio/](https://fahadshaikh2600.github.io/myportfolio/)
