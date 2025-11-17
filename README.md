@@ -1,41 +1,56 @@
-<h1 align="center">👋 Hi, I'm Fahad Shaikh</h1>
-<h3 align="center">☕ Java Full Stack Developer | Spring Boot • React.js • SQL</h3>
+<h1 align="center">👋 Hey, I'm Fahad Shaikh</h1>
+<h3 align="center">💼 Java Full Stack Developer | Spring Boot • React.js • MySQL</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-orange" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Developer-brightgreen" />
+  <img src="https://img.shields.io/badge/React-Frontend-blue" />
+  <img src="https://img.shields.io/badge/MySQL-Database-yellow" />
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🌱 Currently learning **Java Full Stack Development**  
-- 💼 Skilled in **Java, Spring Boot, Hibernate, MySQL, React.js, JavaScript**  
-- 🔭 I build real-world applications & backend systems  
-- 📫 Reach me at: **fahadshaikh2600@gmail.com**  
-- 🌍 Portfolio: [View Portfolio](https://fahadshaikh2600.github.io/myportfolio/)
+## ⚡ About Me  
+- 🔥 Passionate **Java Full Stack Developer**  
+- 🌱 Currently mastering **Java • Spring Boot • Hibernate • SQL**  
+- 🧩 I love building **backend systems, APIs, and full-stack applications**  
+- 🎯 Goal: Become a **high-quality Java backend engineer**  
+- 📧 Email: **fahadshaikh2600@gmail.com**  
+- 🌐 Portfolio: **[Click Here](https://fahadshaikh2600.github.io/myportfolio/)**  
 
 ---
 
-## 🚀 Java Projects
+## 🚀 Projects
 
-### 📘 Student Management System (Java + MySQL)
-📂 **Source Code** – *(Coming soon)*  
-> A complete CRUD-based Java application to manage students, marks, and courses.
-
----
-
-### ☕ Core Java Programs
-📂 [Source Code](https://github.com/fahadshaikh2600/JAWA)  
-> A collection of Java basics: OOPs, loops, arrays, functions, patterns, and more.
-
----
-
-### 💻 Expense Tracker (React.js)
-🔗 [Live Demo](https://expense-tracker-git-main-fahads-projects-edb0dcdc.vercel.app/)  
-📂 [Repository](https://github.com/fahadshaikh2600/expense-tracker)  
-> Modern and clean UI with charts, filters, and full CRUD functionality.
+### 1️⃣ **Java Core + OOPs Practice**  
+📂 **[View Repository](https://github.com/fahadshaikh2600/JAWA)**  
+Clean Java programs covering:
+- OOPs  
+- Loops  
+- Arrays  
+- Functions  
+- Patterns  
+- Beginner → Intermediate Java logic building  
 
 ---
 
-## 🛠️ Skills & Technologies
+### 2️⃣ **Expense Tracker (React.js)**  
+🔗 **[Live Demo](https://expense-tracker-git-main-fahads-projects-edb0dcdc.vercel.app/)**  
+📂 **[Source Code](https://github.com/fahadshaikh2600/expense-tracker)**  
+> Beautiful UI, charts, filters, add/edit/delete, category system.
 
-### ☕ **Backend**
+---
+
+### 3️⃣ **E-Commerce (React + API)**  
+🔗 **[Live Demo](https://ecommerce-website-avp6.vercel.app/)**  
+📂 **[Source Code](https://github.com/fahadshaikh2600/ecommerce-website)**  
+> Featured products, cart system, UI with responsive layout.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ **Backend / Server-Side**
 - Java  
 - Spring Boot  
 - Hibernate / JPA  
@@ -44,33 +59,34 @@
 - MySQL  
 
 ### 💻 **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
 - React.js  
-- Bootstrap / Tailwind  
+- JavaScript (ES6)  
+- HTML5 / CSS3  
+- Tailwind / Bootstrap  
 
-### ⚙️ **Tools**
+### 🧰 **Tools**
+- IntelliJ IDEA / VS Code  
 - Git & GitHub  
-- VS Code / IntelliJ IDEA  
 - Postman  
-- MySQL Workbench
+- MySQL Workbench  
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/fahad--shaikh/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/fahad--shaikh/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadshaikh2600&show_icons=true&layout=compact" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadshaikh2600&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshaikh2600&layout=compact" height="160" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=fahadshaikh2600&show_icons=true" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=fahadshaikh2600" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshaikh2600" />
+</p>
