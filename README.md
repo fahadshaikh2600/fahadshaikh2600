@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Full Stack Development (MERN)**
+- 🌱 Currently **JAVA Full Stack Development **
 - 🔭 Projects I’ve built (see below 👇)
 - 👨‍💻 Portfolio: [My Portfolio](https://fahadshaikh2600.github.io/myportfolio/)  
 - 💬 Ask me about **React.js, JavaScript, HTML, CSS, Git/GitHub, VS Code**
